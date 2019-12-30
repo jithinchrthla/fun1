@@ -1,0 +1,4 @@
+Navigate to application
+Enter user name
+Enter password
+Click on login button1
